@@ -18,7 +18,7 @@ options:
 ## Setup
 
 ```bash
-git clone https://github.com/2O4/ssl_checker
+git clone https://github.com/2O4/ssl-checker
 cd ssl_checker
 pip install -r requirements.txt
 cp hosts.txt.example hosts.txt
